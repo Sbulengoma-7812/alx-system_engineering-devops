@@ -1,0 +1,1 @@
+This repository contains tasks for the Shell basics. DevOps (a combination of cultural philosophies, practices and tools that increases an organisation's ability to deliver applications and services at high velocity
