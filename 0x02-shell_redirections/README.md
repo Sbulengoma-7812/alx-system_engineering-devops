@@ -20,4 +20,22 @@ File 9-duplicate_last_line is a script that duplicates the last line of the file
 
 File 10-no_more_js is a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 
+File 11-directories is a script that counts the number of directories and sub-directories in the current directory.
 
+File 12-newest_files is a script that displays the 10 newest files in the current directory.
+
+File 13-unique is a script that takes a list of words as input and prints only words that appear exactly once.
+
+File 14-findthatword is display lines containing the pattern “root” from the file /etc/passwd.
+
+File 15-countthatword display the number of lines that contain the pattern “bin” in the file /etc/passwd.
+
+File 16-whatsnext display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
+File 17-hidethisword display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+File 18-letteronly display all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+File 19-AZ replace all characters A and c from input to Z and e respectively.
+
+File 20-hiago is a script that removes all letters c and C from input.
